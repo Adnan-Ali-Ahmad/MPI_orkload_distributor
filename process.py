@@ -7,8 +7,7 @@ import os
 import re
 import sys
 import utils as utils
-sys.path.append("/beegfs/home/aa266127/PHD/osyris_fork/osyris") #using osyris fork
-import src.osyris as osyris
+import osyris
 
 
 class Process:
