@@ -1,3 +1,7 @@
+"""
+This file contains fonctions that can be passed to MPI threads to process
+"""
+
 def task1(thread):
 
   # do some task with thread here
